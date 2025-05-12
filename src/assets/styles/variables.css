@@ -1,0 +1,19 @@
+:root {
+    --primary: #1976D2;
+    --secondary: #424242;
+    --accent: #FF5722;
+    --bg-light: #FFFFFF;
+    --bg-dark: #121212;
+    --text-light: #000000;
+    --text-dark: #E0E0E0;
+    --border-radius: 12px;
+    --spacing-sm: 8px;
+    --spacing-md: 16px;
+    --card-width: 240px;
+    --card-min-height: 120px;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+}
