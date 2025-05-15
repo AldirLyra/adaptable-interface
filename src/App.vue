@@ -2,8 +2,6 @@
     <v-app :theme="theme">
         <Dashboard />
     </v-app>
-    <!-- <img alt="Vue logo"
-        src="./assets/logo.png"> -->
 </template>
 
 <script>
