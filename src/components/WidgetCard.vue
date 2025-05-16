@@ -27,12 +27,11 @@ export default {
     },
     data() {
         return {
-            isDragging: false, // Para mostrar/ocultar o ícone de arraste
+            isDragging: false,
             dragClass: 'dragging'
         }
     },
     methods: {
-        // Aqui podemos ligar aos eventos de drag para ativar/desativar a classe do ícone
         onDragStart() {
             this.isDragging = true
         },
